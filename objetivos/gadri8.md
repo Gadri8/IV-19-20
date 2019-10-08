@@ -43,3 +43,24 @@
 
 ## Reenvio ##
 - [x] Modificada la descripción del proyecto según los comentarios indicados.
+
+## Semana del 30 de Septiembre
+
+- [ ] Entender bien el concepto de test y herramientas necesarias para el mismo.
+- [ ] Comenzar con la configuración de los sistemas de integración continua.
+- [ ] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
+- [ ] Comprender el nivel plataforma de la infraestructura virtual y su uso en prueba y producción.
+
+- [x] Asignatura y trabajos de fin de grado.
+- [ ] Entender [el segundo hito del proyecto](http://jj.github.io/IV/documentos/proyecto/2.CI)
+- [ ] Comprender los hooks de git.
+- [ ] Entender el formato YAML y su uso en la descripción de diferentes infraestructuras virtuales.  
+
+## Semana del 7 de Octubre
+
+- [ ] Terminar la configuración de los sistemas de integración continua 
+- [ ] Entender los servicios web, cómo configurarlos, ejecutarlos, probarlos.
+
+- [x] Entender los errores comunes en el hito 1. 
+- [ ] Entender cómo extender clases con un API REST o uno basado en tareas.
+- [ ] Comprender los mecanismos de despliegue automático a través de git.
